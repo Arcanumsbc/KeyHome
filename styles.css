@@ -825,6 +825,7 @@ body {
   .header__content {
     position: fixed;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     width: 100%;
     padding: 30px 20px;
